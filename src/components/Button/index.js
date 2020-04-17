@@ -1,17 +1,15 @@
 import React from 'react';
-import { ActivityIndicator } from 'react-native';
 import PropTypes from 'prop-types';
 
+import CustomStyles from '~/components/CustomStyles';
 import { Container, Text } from './styles';
 
 export default function Button({ children, loading, ...rest }) {
   return (
     <Container {...rest}>
-      {loading ? (
-        <ActivityIndicator size="small" color="#fff" />
-      ) : (
-        <Text>{children}</Text>
-      )}
+      <Text disabled={loading} style={CustomStyles.baseText}>
+        {children}
+      </Text>
     </Container>
   );
 }
