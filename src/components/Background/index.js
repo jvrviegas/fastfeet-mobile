@@ -5,4 +5,5 @@ export default styled(LinearGradient).attrs({
   colors: ['#7D40E7', '#7D40E7'],
 })`
   flex: 1;
+  max-height: 100px;
 `;
