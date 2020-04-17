@@ -100,6 +100,7 @@ export default function Dashboard({ navigation }) {
   }
 
   function handleOrderDetails(order) {
+    setPage(1);
     navigation.navigate('OrderDetails', { order, deliveryman });
   }
 
