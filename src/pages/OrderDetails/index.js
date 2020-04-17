@@ -40,7 +40,7 @@ export default function OrderDetails({ route, navigation }) {
       navigation.navigate('Deliveries');
     } catch (error) {
       Toast.loading(false);
-      Toast.error('Não foi possível efetuar a operação, tente novamente');
+      Toast.error(error.response.data.error);
     }
   }
 
