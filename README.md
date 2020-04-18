@@ -12,7 +12,7 @@ Durante esse desafio foi construído o app mobile da aplicação FastFeet que fo
 
 A versão mobile do projeto FastFeet representa a visão do entregador, ou seja, todas funcionalidades presentes nesse projeto são para entregadores.
 
-## :computer: Funcionalidades
+## :clipboard: Funcionalidades
 
 - Visualizar encomendas
 - Retirar encomenda
@@ -20,7 +20,7 @@ A versão mobile do projeto FastFeet representa a visão do entregador, ou seja,
 - Visualizar problemas
 - Confirmar entrega
 
-## :clipboard: Iniciando a aplicação
+## :computer: Iniciando a aplicação
 
 1. Clone o repositório com `git clone https://github.com/jvrviegas/fastfeet-mobile.git`
 2. Entre na pasta do projeto com `cd fastfeet-mobile`
@@ -30,7 +30,7 @@ A versão mobile do projeto FastFeet representa a visão do entregador, ou seja,
 
 ## :hammer: Principais Ferramentas
 
-- ⚛️ **React Native** - Uma biblioteca para criar mobile Apps
+- ⚛️ **React Native** - Biblioteca para criar mobile Apps
 - ⚛️ **React Native Camera** - Biblioteca para gerenciamento do estado da aplicação
 - ⚛️ **Styled Components** - Biblioteca pra estilizar componentes
 - ⚛️ **Redux** - Biblioteca para gerenciamento do estado da aplicação
