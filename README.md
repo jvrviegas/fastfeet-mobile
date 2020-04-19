@@ -8,11 +8,11 @@
 
 ## :rocket: Sobre o desafio
 
-Durante esse desafio foi construído o app mobile da aplicação FastFeet que foi desenvolvido o back-end durante os desafios dos módulos 02 e 03 de Node.js e front-end no desafio do módulo 09 de ReactJS.
+Durante esse desafio foi construído o app mobile da aplicação FastFeet que foi desenvolvido o [back-end](https://github.com/jvrviegas/fastfeet-api) durante os desafios dos módulos 02 e 03 de Node.js e [front-end web](https://github.com/jvrviegas/fastfeet-web) no desafio do módulo 09 de ReactJS.
 
 A versão mobile do projeto FastFeet representa a visão do entregador, ou seja, todas funcionalidades presentes nesse projeto são para entregadores.
 
-## :computer: Funcionalidades
+## :clipboard: Funcionalidades
 
 - Visualizar encomendas
 - Retirar encomenda
@@ -20,7 +20,7 @@ A versão mobile do projeto FastFeet representa a visão do entregador, ou seja,
 - Visualizar problemas
 - Confirmar entrega
 
-## :clipboard: Iniciando a aplicação
+## :computer: Iniciando a aplicação
 
 1. Clone o repositório com `git clone https://github.com/jvrviegas/fastfeet-mobile.git`
 2. Entre na pasta do projeto com `cd fastfeet-mobile`
@@ -30,12 +30,12 @@ A versão mobile do projeto FastFeet representa a visão do entregador, ou seja,
 
 ## :hammer: Principais Ferramentas
 
-- ⚛️ **React Native** - Uma biblioteca para criar mobile Apps
-- ⚛️ **React Native Camera** - Biblioteca para gerenciamento do estado da aplicação
-- ⚛️ **Styled Components** - Biblioteca pra estilizar componentes
-- ⚛️ **Redux** - Biblioteca para gerenciamento do estado da aplicação
-- 📄 **Axios** - Biblioteca para fazer requisições http
-- 📄 **ESLint** - Biblioteca para procurar e resolver problemas no codigo
+- ⚛️ **React Native** - Biblioteca para criar mobile Apps
+- :camera: **React Native Camera** - Biblioteca para gerenciamento do estado da aplicação
+- :cyclone: **Redux** - Biblioteca para gerenciamento do estado da aplicação
+- :nail_care: **Styled Components** - Biblioteca pra estilizar componentes
+- :globe_with_meridians: **Axios** - Biblioteca para fazer requisições http
+- 📄 **ESLint** - Biblioteca para análise de código estática para identificar e reportar padrões no código Javascript
 
 ## :camera: Demonstração
 <h1 align="center">
