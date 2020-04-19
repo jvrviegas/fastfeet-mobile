@@ -8,7 +8,7 @@
 
 ## :rocket: Sobre o desafio
 
-Durante esse desafio foi construído o app mobile da aplicação FastFeet que foi desenvolvido o back-end durante os desafios dos módulos 02 e 03 de Node.js e front-end no desafio do módulo 09 de ReactJS.
+Durante esse desafio foi construído o app mobile da aplicação FastFeet que foi desenvolvido o [back-end](https://github.com/jvrviegas/fastfeet-api) durante os desafios dos módulos 02 e 03 de Node.js e front-end no desafio do módulo 09 de ReactJS.
 
 A versão mobile do projeto FastFeet representa a visão do entregador, ou seja, todas funcionalidades presentes nesse projeto são para entregadores.
 
